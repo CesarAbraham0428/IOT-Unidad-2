@@ -40,7 +40,7 @@
     9. Circuito que consiste en el cambio de colores de un Led RGB mediante un Joystick.
     * [Joystick-RGB-Python](https://drive.google.com/file/d/1BACeKLAgEi2ke9R5DNjJViXxjNTR0JUj/view?usp=drive_link)
     10. Circuito que consiste en el una matriz de 8x8 que muestra el valor de un potenciometro.
-    * [Matriz-Potenciometro-Python](https://drive.google.com/file/d/1BACeKLAgEi2ke9R5DNjJViXxjNTR0JUj/view?usp=drive_link)
+    * [Matriz-Potenciometro-Python](https://drive.google.com/file/d/1AoztsRN41NTSHGqKbOVFXMcrREs1gCVB/view?usp=drive_link)
 
 
 3. [Avance_Prototipo](https://github.com/CesarAbraham0428/IOT-Unidad-2/tree/main/Avance_Proyecto_Navide%C3%B1o)
@@ -49,7 +49,7 @@
 
     El prototipo consiste en un motor de pasos que se mueve en un rango de 0 a 180 grados, un sensor ultrasonico que al estar un objeto a una distancia de 15 cm enciende 2 leds y un buzzer cuando se detecta un objeto, además de 2 servomotores que se mueven en un rango de 0 a 90 grados.
 
-    * [Video de Avance de Prototipo Navideño]()
+    * [Video de Avance de Prototipo Navideño](https://drive.google.com/file/d/1B_yy0b3ZwOwfIHW3Ey-AYgg3rl_Xczmq/view?usp=drive_link)
 
 4. [Curso Python NetAcad](https://github.com/CesarAbraham0428/IOT-Unidad-2/blob/main/Curso_Python_NetAcad/Capturas.md)
 
